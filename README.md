@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AM-Nandeesh
-- 👀 I’m interested in Coding and DSA
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/a-m-nandeesh-2a8871220
 
 <!---
